@@ -1,4 +1,6 @@
 
+<img width="814" height="794" alt="fioot1" src="https://github.com/user-attachments/assets/74b3fba9-5a61-44a5-a4de-518f65416121" />
+<img width="735" height="413" alt="foot" src="https://github.com/user-attachments/assets/e34cb0ec-ead6-4dec-a54c-7507729bed34" />
 
 
 

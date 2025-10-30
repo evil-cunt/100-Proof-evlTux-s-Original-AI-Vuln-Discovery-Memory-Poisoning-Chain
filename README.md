@@ -1,4 +1,4 @@
-evl<img width="728" height="932" alt="Screenshot 2025-10-30 at 16-22-26 HackerAI - AI-Powered Penetration Testing Assistant" src="https://github.com/user-attachments/assets/2c2ac803-0f2a-4d29-be85-ddb4fb27f896" />
+
 
 <img width="752" height="737" alt="Screenshot from 2025-10-30 16-17-11" src="https://github.com/user-attachments/assets/4738e0cb-35b9-4e69-88f4-3cdf68ea397c" />
 

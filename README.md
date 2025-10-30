@@ -1,6 +1,6 @@
 
 
-<img width="752" height="737" alt="Screenshot from 2025-10-30 16-17-11" src="https://github.com/user-attachments/assets/4738e0cb-35b9-4e69-88f4-3cdf68ea397c" />
+
 
 
 🚨 100% PROOF: evlTux's Original AI Vuln Discovery & Memory Poisoning Chain 🚨

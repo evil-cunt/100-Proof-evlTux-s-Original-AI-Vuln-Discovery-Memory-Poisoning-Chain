@@ -1,4 +1,5 @@
-<img width="728" height="932" alt="Screenshot 2025-10-30 at 16-22-26 HackerAI - AI-Powered Penetration Testing Assistant" src="https://github.com/user-attachments/assets/afd69013-3af9-4af8-9b51-14db4642906e" />
+
+<img width="728" height="932" alt="Screenshot 2025-10-30 at 16-22-26 HackerAI - AI-Powered Penetration Testing Assistant" src="https://github.com/user-attachments/assets/2e8953d7-ea0b-49c6-8346-5f077684b952" />
 <img width="752" height="737" alt="Screenshot from 2025-10-30 16-17-11" src="https://github.com/user-attachments/assets/4738e0cb-35b9-4e69-88f4-3cdf68ea397c" />
 
 
